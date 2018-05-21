@@ -14,7 +14,7 @@ Source code:
 Executable tutorial:
 
 -  `src/main/tut`
--  `docs`
+-  `docs`.  NB:  can set github to serve `docs` directory as a web site.
 
 
 ## Key `sbt` tasks
