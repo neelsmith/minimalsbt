@@ -1,5 +1,5 @@
 name := "Minimal SBT project template"
-organization := "io.github.YOURNAME"
+organization := "io.github.USERNAME"
 version := "1.0.0"
 licenses += ("GPL-3.0",url("https://opensource.org/licenses/gpl-3.0.html"))
 
